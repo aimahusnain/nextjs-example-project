@@ -25,7 +25,7 @@ function Posts() {
         <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
           <Image
             alt="hero"
-            src="https://dummyimage.com/720x600"
+            src="https://img.freepik.com/free-photo/space-background-realistic-starry-night-cosmos-shining-stars-milky-way-stardust-color-galaxy_1258-154643.jpg"
             width={720}
             height={600}
             className="object-cover object-center rounded"
