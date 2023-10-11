@@ -1,4 +1,4 @@
-import Image from 'next/image'; // Import the Image component from 'next/image'
+import Image from 'next/image';
 
 function List() {
   return (
@@ -15,7 +15,7 @@ function List() {
                 src="https://dummyimage.com/302x302"
               />
               <p className="leading-relaxed">
-                Edison bulb retro cloud bread echo park, helvetica stumptown taiyaki taxidermy 90's cronut +1 kinfolk. Single-origin coffee ennui shaman taiyaki vape DIY tote bag drinking vinegar cronut adaptogen squid fanny pack vaporware.
+                Edison bulb retro cloud bread echo park, helvetica stumptown taiyaki taxidermy 90&rsquo;s cronut +1 kinfolk. Single-origin coffee ennui shaman taiyaki vape DIY tote bag drinking vinegar cronut adaptogen squid fanny pack vaporware.
               </p>
               <span className="inline-block h-1 w-10 rounded bg-indigo-500 mt-6 mb-4"></span>
               <h2 className="text-gray-900 font-medium title-font tracking-wider text-sm">Amin Ahsan</h2>
@@ -32,7 +32,7 @@ function List() {
                 src="https://dummyimage.com/300x300"
               />
               <p className="leading-relaxed">
-                Edison bulb retro cloud bread echo park, helvetica stumptown taiyaki taxidermy 90's cronut +1 kinfolk. Single-origin coffee ennui shaman taiyaki vape DIY tote bag drinking vinegar cronut adaptogen squid fanny pack vaporware.
+                Edison bulb retro cloud bread echo park, helvetica stumptown taiyaki taxidermy 90&rsquo;s cronut +1 kinfolk. Single-origin coffee ennui shaman taiyaki vape DIY tote bag drinking vinegar cronut adaptogen squid fanny pack vaporware.
               </p>
               <span className="inline-block h-1 w-10 rounded bg-indigo-500 mt-6 mb-4"></span>
               <h2 className="text-gray-900 font-medium title-font tracking-wider text-sm">Muhammad Husnain</h2>
@@ -49,7 +49,7 @@ function List() {
                 src="https://dummyimage.com/305x305"
               />
               <p className="leading-relaxed">
-                Edison bulb retro cloud bread echo park, helvetica stumptown taiyaki taxidermy 90's cronut +1 kinfolk. Single-origin coffee ennui shaman taiyaki vape DIY tote bag drinking vinegar cronut adaptogen squid fanny pack vaporware.
+                Edison bulb retro cloud bread echo park, helvetica stumptown taiyaki taxidermy 90&rsquo;s cronut +1 kinfolk. Single-origin coffee ennui shaman taiyaki vape DIY tote bag drinking vinegar cronut adaptogen squid fanny pack vaporware.
               </p>
               <span className="inline-block h-1 w-10 rounded bg-indigo-500 mt-6 mb-4"></span>
               <h2 className="text-gray-900 font-medium title-font tracking-wider text-sm">Taha Amin</h2>
